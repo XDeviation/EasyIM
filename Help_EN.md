@@ -20,7 +20,7 @@
 
 ## When using it
 - Read it
-- Or check all supported operations [here](https://github.com/XDeviation/KaguraMea-ACommonIM/wiki)
+- Or check all supported operations [here](https://github.com/XDeviation/EasyIM/wiki)
 
 ## Help documentation
 

@@ -22,7 +22,7 @@
 
 ## 使用时
 - 在本页面查看所有操作
-- 或者在[这里](https://github.com/XDeviation/KaguraMea-ACommonIM/wiki)查询所有支持的操作
+- 或者在[这里](https://github.com/XDeviation/EasyIM/wiki)查询所有支持的操作
 
 ## 帮助文档
 
